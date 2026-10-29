@@ -2,10 +2,10 @@
   "name": "openeuler-skillhub",
   "version": "0.1.0",
   "description": "DeepSeek Harness 插件：openEuler社区技能管理平台",
-  "homepage": "https://gitcode.com/openeuler/openEuler-skillhub",
+  "homepage": "https://atomgit.com/ftboy/openEuler-skillhub",
   "repository": {
     "type": "git",
-    "url": "git+https://gitcode.com/openeuler/openEuler-skillhub.git"
+    "url": "git+https://atomgit.com/ftboy/openEuler-skillhub.git"
   },
   "type": "module",
   "main": "lib/host.js",
